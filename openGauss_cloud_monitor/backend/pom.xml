@@ -99,7 +99,7 @@
             <groupId>com.baomidou</groupId>
             <artifactId>mybatis-plus-extension</artifactId>
             <!-- mybatis-spring-boot-starter的1.3.2版本号一定要和mybatis-plus的3.1.2主版本号一致 -->
-            <version>3.1.2</version>
+            <version>3.5.8</version>
         </dependency>
         <!--<dependency>-->
             <!--<groupId>com.baomidou</groupId>-->
