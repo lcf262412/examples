@@ -39,7 +39,7 @@
     "async": "^3.2.4",
     "async-waterfall": "^0.1.5",
     "moment": "^2.29.4",
-    "mongodb": "^3.7.3",
+    "mongodb": "^3.7.4",
     "mongoose": "^6.6.1",
     "yarn": "^1.22.11"
   }
