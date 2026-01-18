@@ -13,7 +13,7 @@
     "node-postgres": "file:openGauss-connector-nodejs",
     "pg": "file:openGauss-connector-nodejs/packages/pg",
     "pg-hstore": "^2.3.4",
-    "pg-types": "^4.0.0",
+    "pg-types": "^4.1.0",
     "sequelize": "^6.21.3"
   }
 }
